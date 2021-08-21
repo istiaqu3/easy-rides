@@ -1,0 +1,63 @@
+.style{
+    width: 998px;
+    max-width: 90%;
+    margin: auto;
+ 
+    
+}
+body{
+    background: url("../../images/Bg.png")  no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+}
+
+img{
+    height: 150px;
+    
+     
+}
+
+
+
+
+@media (max-width:992px) {
+    .card{
+        width: 80%;
+        margin: auto;
+        margin-bottom: 10px;
+        
+    }  
+    img{
+
+        width:100%;;
+    } 
+}
+@media (max-width:772px) {
+    .card{
+        width: 60%;
+        
+        margin: auto;
+        margin-bottom: 10px;
+        
+    }
+    img{
+
+        width:100%;;
+    }
+    
+}
+@media (max-width:762px) {
+    .card{
+        width: 50%;
+        margin: auto;
+        margin-bottom: 10px;
+        
+    } 
+    img{
+
+        width:100%;;
+    }  
+}

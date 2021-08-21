@@ -1,0 +1,42 @@
+.style{
+    width: 998px;
+    max-width: 90%;
+    margin: auto;  
+}
+.bg{
+    background-color: lightgray;
+    padding: 10px;
+    border-radius: 5px;
+
+}
+#map>img{
+    width: 100%;
+    height: 90%;
+}
+.bg-orange{
+    background-color: lightsalmon;
+    text-align: center;
+    border-radius: 5px;
+    
+
+}
+#resultPic>img{
+
+    height: 50px;
+    width: 50px;
+    padding: 5px;
+}
+
+#peopleIcon>img{
+
+    height: 30px;
+    width: 30px;
+    padding: 5px;
+}
+#resultInfo{
+    display: flex;
+    align-items: center;
+    background-color: lightyellow;
+    border-radius: 5px;
+    /* border: 2px solid red; */
+}
