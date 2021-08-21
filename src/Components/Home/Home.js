@@ -24,7 +24,7 @@ const Home = () => {
           <Card.Title>
             
             <Link to="/booking/:bike">
-             <Button variant="primary" >Bike11</Button>
+             <Button variant="primary" >Bike</Button>
              </Link>
             
           </Card.Title>
